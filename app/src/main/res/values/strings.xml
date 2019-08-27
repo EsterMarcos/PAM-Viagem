@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ETEC-Viagem</string>
+    <string name="tpGasto">Tempo Gasto:</string>
+    <string name="VlMedia">Velocidade Média:</string>
+    <string name="RdVeiculo">Rendimenmto Veículo:</string>
+    <string name="distancia">Distância :</string>
+    <string name="consumo">Consumo :</string>
+</resources>
